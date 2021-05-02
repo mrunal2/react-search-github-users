@@ -1,12 +1,10 @@
-## Starter Project
 
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
-- 
 ## Test it yourself
 https://search-git-users.netlify.app/
+
+![image](https://user-images.githubusercontent.com/25037844/116804733-d84a4480-ab3e-11eb-9212-0e1376b55430.png)
+
+![image](https://user-images.githubusercontent.com/25037844/116804719-bfda2a00-ab3e-11eb-9991-42debbd8d840.png)
 
 ## Styled Components
 
